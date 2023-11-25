@@ -1,2 +1,2 @@
 # AB_project_dating
-A project in which statistical analysis of AB-test results is implemented 
+Проект, в котором реализован статистический анализ результатов AB-теста
